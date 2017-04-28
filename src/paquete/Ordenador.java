@@ -40,6 +40,7 @@ public class Ordenador {
             estado = true;
         }else{
             System.out.println("El ordenador ya está encendido.");
+            
         }            
     }
     
